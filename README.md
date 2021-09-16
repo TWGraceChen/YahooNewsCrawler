@@ -9,7 +9,7 @@
 3. mysql 的 create schema(table名稱articles)
 
 執行
-·python3 yahoo_news_crawler.py·
+`python3 yahoo_news_crawler.py`
 
 
 ## 開發環境
